@@ -13,11 +13,15 @@ Place all written answers from `recitation-05.md` here for easier grading.
 
 
 - **1b.**
+Fixed Pivot has a work value worst case of O(n^2) and a Span of O(nlogn)
 
+Random pivot expected value for work and span with random pivot. Work is O(nlogn) and span is O(logn)^2) 
 
+Tim sort: Work is O(nlogn) and Span is O(logn)^2) 
 
 
 - **1c.**
+
 |      n |   qsort-fixed-pivot |   qsort-random-pivot |
 |--------|---------------------|----------------------|
 |    100 |               0.018 |                0.227 |
